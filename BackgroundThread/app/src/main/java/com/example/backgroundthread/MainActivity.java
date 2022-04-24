@@ -48,6 +48,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         TextView textView = (TextView) findViewById(R.id.textView2);
-        textView.setText("Halo, its me shalsa!");
+        textView.setText("2007051027, Kelas B");
     }
 }
